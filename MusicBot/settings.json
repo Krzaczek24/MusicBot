@@ -1,0 +1,7 @@
+{
+  "testGuild": "340291326455185408",
+  "lavalinkSettings": {
+    "host": "localhost",
+    "port": 2333
+  }
+}

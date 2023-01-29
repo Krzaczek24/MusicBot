@@ -1,0 +1,3 @@
+[submodule "DiscordCommon"]
+	path = DiscordCommon
+	url = https://github.com/Krzaczek24/DiscordCommon.git
